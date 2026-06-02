@@ -1,6 +1,6 @@
 #profile-title: ШИЗИ VPN
 
-#profile-description: CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
+#description: CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
 
 #subscription-userinfo: expire=1797465600
 
