@@ -1,4 +1,4 @@
-#profile-update-interval: 0.5
+#profile-update-interval: 1
 #profile-title: 👻ШИЗИ ВПН Белые списки (Маленькая версия)
 #announce: CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
 #subscription-userinfo: expire=1797465600
