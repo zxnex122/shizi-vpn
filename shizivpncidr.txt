@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: 👻ШИЗИ ВПН Белые списки (Маленькая версия)
-#announce: CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
+#announce: обход глушилок (БС)
 #subscription-userinfo: expire=1797465600
 vless://a5a8c84e-c93c-4fed-a4f4-a1b1d9dcac02@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://f4b907c2-4faa-46cc-a0f2-6dd6c2057bd2@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
