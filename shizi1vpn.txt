@@ -1,7 +1,6 @@
-#profile-title: ШИЗИ VPN
-
-#description: CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
-
+#profile-update-interval: 1
+#profile-title: 👻ШИЗИ ВПН
+#announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 #subscription-userinfo: expire=1797465600 description=CIDR подписки-обход глушилок (БС)| BL подписки-обход черных списков
 
 ss://YWVzLTI1Ni1nY206NWZhZjc0ZDAtNTUxYS00YmQ1LTg1YmEtMjdiMmQzMTY0NThi@57.129.121.230:2083#Germany%20#36497%20/%20OutlineKeys.com
